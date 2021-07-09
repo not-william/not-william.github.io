@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Diamond",
+        "image": "2",
+        "diameter": 280
+    },
+    {
+        "name": "Sapphire",
+        "image": "3",
+        "diameter": 280
+    }
+]
