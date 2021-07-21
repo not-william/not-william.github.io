@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@mediapipe/camera_utils": "^0.3.1620247984",
+    "@mediapipe/drawing_utils": "^0.3.1620248257",
+    "@mediapipe/hands": "^0.3.1620248595",
+    "lodash": "^4.17.21",
+    "stats.js": "^0.17.0",
+    "three": "^0.130.1"
+  },
+  "name": "3dhands",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "webpack-cli": "^4.7.2"
+  }
+}
