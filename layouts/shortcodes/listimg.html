@@ -1,0 +1,8 @@
+{{ with .Page.Resources.ByType "image" }}
+    {{ range . }}
+        {{ $imageResized := (.Resize "x230 q100") }}
+        <a style="text-decoration:none;" href="{{ (.).RelPermalink }}">
+            <img src="{{ $imageResized.RelPermalink }}">
+        </a>
+    {{ end }}
+{{ end }}

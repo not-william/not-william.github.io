@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>food on Will&#39;s blog</title>
+    <link>https://example.com/blog/food/</link>
+    <description>Recent content in food on Will&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2022, William Harris.</copyright>
+    <lastBuildDate>Sun, 30 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/blog/food/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The no-nonsense beginner&#39;s guide to Japanese cooking</title>
+      <link>https://example.com/the-no-nonsense-beginners-guide-to-japanese-cooking/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/the-no-nonsense-beginners-guide-to-japanese-cooking/</guid>
+      <description>Japanese food. You either love it or hate it, but if you&amp;rsquo;re reading this, you probably love it. This post will teach you everything you need to know to get started with some decilious and simple dishes.</description>
+    </item>
+    
+  </channel>
+</rss>
