@@ -6,7 +6,7 @@ baseURL = "https://notwilli.am"
 theme = 'bearblog'
 
 # Basic metadata configuration for your blog.
-title = "notwilli.am"
+title = "Will Harris"
 author = "Will H"
 copyright = "Copyright © 2022, William Harris."
 languageCode = "en-US"
