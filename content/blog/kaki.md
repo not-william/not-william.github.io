@@ -3,6 +3,9 @@ title = "👎🏼 Kaki, King's Cross"
 date = 2023-01-20
 draft = true
 slug = "kaki"
+tags = [
+    "reviews"
+]
 +++
 
 Kaki is an example of how a resteraunt can get so mugh right, and yet so much wrong at the same time.
