@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://notwilli.am/sitemap.xml
+Sitemap: https://not-william.github.io/sitemap.xml
