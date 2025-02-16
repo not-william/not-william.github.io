@@ -8,35 +8,35 @@ slug: "port-report"
 
 We saw some of Porto, including a trip to Portuguese Flannel where I bought a shirt, before crossing over to Villa Nova de Gaia. First we stopped for a **Quinta De Noval 10 year tawny**.
 
-![DSC03980](blog/port-report/DSC03980.JPG)
+![DSC03980](/blog/port-report/DSC03980.JPG)
 *Quinta De Noval 10 year tawny*
 
 I would describe the taste as silky. It's like you're eating something which melts in your mouth. The tawny was served slightly chilled.
 
 The next stop is **Porto Cruz**, where we had another **10 year tawny**. The wine was almost orange as it poured out of the bottle. However taste standard!
 
-![DSC03990](blog/port-report/DSC03990.JPG)
+![DSC03990](/blog/port-report/DSC03990.JPG)
 *Porto Cruz 10 year tawny*
 
 And to finish off the day...
 
-![IMG_20250213_191658_783](blog/port-report/IMG_20250213_191658_783.jpg)
+![IMG_20250213_191658_783](/blog/port-report/IMG_20250213_191658_783.jpg)
 *Selection of Portuguese cheeses at Cantinho do Avillez*
 
 We left early the following morning to tour the Duoro valley. Our first stop was at **Croft's estate**, where we had a **white port, ruby** and **reserve tawny**.
 
-![DSC04019](blog/port-report/DSC04019.JPG)
+![DSC04019](/blog/port-report/DSC04019.JPG)
 *Croft white, ruby and reserve tawny*
 
-![DSC04006](blog/port-report/DSC04006.JPG)
+![DSC04006](/blog/port-report/DSC04006.JPG)
 *A fungus is causing problems for the estate's vines and olive trees*
 
 Finally, we visited a cellar where wines are aged.
 
-![DSC04034](blog/port-report/DSC04034.JPG)
+![DSC04034](/blog/port-report/DSC04034.JPG)
 *That's a lot of port*
 
 Before our flight home, we went to wine shop to pick up some 
 
-![DSC04042](blog/port-report/DSC04042.JPG)
+![DSC04042](/blog/port-report/DSC04042.JPG)
 *The haul brought home*
