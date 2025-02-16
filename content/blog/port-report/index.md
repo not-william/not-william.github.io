@@ -2,6 +2,7 @@
 title: "Two day trip to Porto"
 date: 2025-02-16
 slug: "port-report"
+hideHeader: true
 ---
 
 We saw some of Porto, including a trip to Portuguese Flannel where I bought a shirt, before crossing over to Villa Nova de Gaia. First we stopped for a **Quinta De Noval 10 year tawny**.

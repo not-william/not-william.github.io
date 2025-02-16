@@ -1,10 +1,12 @@
-<div style="float: left;">
-<a href="{{ "/" | relURL }}" class="title">
-  <h2>{{ .Site.Title }}</h2>
-</a>
-</div>
-<div style="float: right; margin: 25px 0; font-size: 18px;">
-  <nav>{{- partial "nav.html" . -}}</nav>
-</div>
-<br>
-<div style="clear: both;"></div>
+{{ if not .Params.hideHeader }}
+  <div style="float: left;">
+  <a href="{{ "/" | relURL }}" class="title">
+    <h2>{{ .Site.Title }}</h2>
+  </a>
+  </div>
+  <div style="float: right; margin: 25px 0; font-size: 18px;">
+    <nav>{{- partial "nav.html" . -}}</nav>
+  </div>
+  <br>
+  <div style="clear: both;"></div>
+{{ end }}
